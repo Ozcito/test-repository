@@ -1,3 +1,3 @@
-# test-repository
+# My very first repo
 
-This is a second example.
+Kal0b is an awesome teacher and we'll see if I leave him a review.
